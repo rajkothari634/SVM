@@ -1,2 +1,2 @@
 # SVM
-SVM in octave  
+SVM in octave and also to identify spam emails
